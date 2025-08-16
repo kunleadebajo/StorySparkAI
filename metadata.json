@@ -1,0 +1,5 @@
+{
+  "name": "StorySpark AI",
+  "description": "An AI-powered story idea generator for journalists and writers. Use text, emoji, or image prompts to spark your next creative project and receive unique story ideas with titles and summaries.",
+  "requestFramePermissions": []
+}
